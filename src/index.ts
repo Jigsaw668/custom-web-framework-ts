@@ -14,5 +14,4 @@ if (root) {
   userForm.render();
 } else {
   throw new Error('Root element not found');
-  
 }
